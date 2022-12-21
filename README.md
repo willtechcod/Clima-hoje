@@ -22,7 +22,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Como baixar o projeto
 
-[Clique aqui](.github/Controle-Financeiro.apk)
+[Clique aqui](https://github.com/willtechcod/Clima-hoje.git)
+
+---
+## Veja aqui o projeto.
+
+[Clique aqui](https://willtechcod.github.io/Clima-hoje/)
 
 ---
 
